@@ -68,7 +68,7 @@ java Example        # Run
 ## 🛠️ File Uploading Guide
 - Clone this repository:
   ```sh
-  git clone https://github.com/your-username/java-tutorial.git
+  git clone https://github.com/mohanveeramanikantak/Java.git
   ```
 - Create a new branch for your contributions:
   ```sh
