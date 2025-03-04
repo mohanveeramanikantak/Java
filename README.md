@@ -53,7 +53,7 @@ java Example        # Run
 
 ---
 
-## 🔍 Java Basics
+## 🔍 Java Basics 
 
 | Topic             | Description |
 |-------------------|------------|
