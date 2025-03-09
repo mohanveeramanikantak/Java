@@ -1,4 +1,4 @@
-# Java Programming ☕
+# Java Programming ☕☕
 
 Welcome to the **Java Programming** repository! This repository covers fundamental and advanced Java concepts with a structured guide.
 
